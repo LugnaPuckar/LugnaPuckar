@@ -12,9 +12,10 @@ Currently, I'm doing my **internship as an Integration Developer**, enhancing my
 - Strengthening my expertise in the **Azure ecosystem**  
 - working with **Terraform modules** to build and maintain integrations efficiently  
 - Expanding my knowledge in **backend development** and **cloud-native applications**
+- playing with python
 
 - **Tech tags**
-- Azure, C#, Terraform, Git, Azure logic & function apps, apim
+- Azure, C#, Terraform, Git, Azure logic & function apps, apim, python
 
 ## 📫 Let's Connect  
 Feel free to check out my repositories and reach out!
